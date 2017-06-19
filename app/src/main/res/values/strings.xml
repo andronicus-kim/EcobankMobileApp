@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Create Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="user_id">User Id</string>
+    <string name="pin">Pin</string>
+    <string name="button_login">Login</string>
+    <string name="login_failure">Wrong Id or Pin</string>
+    <string name="first_name">First Name</string>
+    <string name="surname">Surname</string>
+    <string name="last_name">Last Name</string>
+    <string name="employed">Employed</string>
+    <string name="unemployed">Unemployed</string>
+    <string name="employment_status">Employment Status</string>
+    <string name="married">Married?</string>
+    <string name="is_married">Married</string>
+    <string name="single">Single</string>
+    <string name="account_type">Account Type</string>
+    <string name="transaction">Transaction</string>
+    <string name="current">Current</string>
+    <string name="savings">Savings</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="next_of_kin">Next of Kin</string>
+    <string name="joint_account">Do you want a joint account?</string>
+    <string name="id_number">Id Number</string>
+    <string name="debit_card">Debit Card</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="image">Image</string>
+    <string name="cards">Cards</string>
+    <string name="action_save">Save</string>
+    <string name="crime_photo_no_image_description">No Image</string>
+    <string name="crime_photo_image_description">Account image</string>
+    <string name="yes">Yes</string>
+    <string name="account_created">Account Number</string>
+    <string name="password">password</string>
+    <string name="account_holding">ACCOUNT HOLDING</string>
+    <string name="Individual">Individual</string>
+    <string name="joint">Joint</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="self_employed">Self Employed</string>
+    <string name="no">No</string>
+    <string name="next_of_kin_name">Name</string>
+</resources>
